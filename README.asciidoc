@@ -1,0 +1,10 @@
+evergreen-php client
+====================
+
+This is a PHP library to make requests against an Evergreen system.
+
+This library will compliment opensrf-php and will contain
+Evergreen-specific things such as the Fieldmapper and functions
+for various Evergreen tasks.
+
+This uses idlchunk and therefore requires Evergreen 2.0 or higher.
